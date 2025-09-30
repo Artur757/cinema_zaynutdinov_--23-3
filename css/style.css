@@ -11,7 +11,7 @@ body {
 
 .header {
     min-height: 100vh;
-    background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #621402 95.62%), url(/img/bg.jpg) no-repeat center top / cover;
+    background: linear-gradient(180deg, rgba(98, 20, 2, 0.31) 0%, #621402 95.62%), url(img/bg.jpg) no-repeat center top / cover;
     margin-bottom: 63px;
 }
 
